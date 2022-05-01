@@ -1,7 +1,7 @@
 # Memory Killer project <img height="52" width="52" src = "https://user-images.githubusercontent.com/92999481/166146990-9b3f1dcc-b1da-46a8-9e2c-f54eb61a24e8.png">
 
 
-```A program that uses the knowledge from studying C programming language and operating principles of computer memory which will fill your computer memory until the computer will automatically restart because of the blue screen.```
+```A program that uses the knowledge from studying C programming language and operating principles of computer memory which will fill your computer memory until the computer will automatically restart because of the blue screen```.
 
 <hr>
 <br>
