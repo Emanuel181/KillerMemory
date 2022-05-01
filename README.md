@@ -32,4 +32,4 @@
 <br>
 
 ### Image
-![photo](https://user-images.githubusercontent.com/92999481/146649043-75d01c9c-7004-4bc8-936b-fb05f8552b36.png)
+![photo](https://github.com/Emanuel181/KillerMemory/blob/f917fae7347b6a1482703020fd8d3062693e6837/Capture.PNG)
