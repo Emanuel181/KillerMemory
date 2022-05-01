@@ -4,4 +4,4 @@
 
 ## How to run it
 
-**```[1]```**
+**```[1]```** Double click on ```MemoryFiller.vbs```
